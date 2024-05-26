@@ -1,0 +1,6 @@
+if SHIELD_UH9
+
+config ZMK_KEYBOARD_NAME
+  default "uh9"
+
+endif # SHIELD_KNOB_GOBLIN
